@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot_boilerplate",
+  "version": "1.0.0",
+  "description": "A Boilerplate Discord Bot, ready for you to customisize",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot",
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sp1ritCS/discordBot_boilerplate.git"
+  },
+  "author": "SpiritCS / sp1ritCS",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sp1ritCS/discordBot_boilerplate/issues"
+  },
+  "homepage": "https://github.com/sp1ritCS/discordBot_boilerplate#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
