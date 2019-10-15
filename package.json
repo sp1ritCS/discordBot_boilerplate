@@ -5,7 +5,8 @@
   "main": "bot.js",
   "scripts": {
     "start": "node bot",
-    "test": "nodemon"
+    "test": "nodemon",
+    "lint": "eslint --fix ./"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/sp1ritCS/discordBot_boilerplate#readme",
   "dependencies": {
-    "discord.js": "^11.5.1"
+    "discord.js": "^11.5.1",
+    "eslint": "^6.5.1"
   }
 }
