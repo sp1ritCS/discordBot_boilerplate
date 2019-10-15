@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/sp1ritCS/discordBot_boilerplate#readme",
   "dependencies": {
-    "discord.js": "^11.5.1",
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
     "eslint": "^6.5.1"
   }
 }
